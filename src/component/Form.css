@@ -1,0 +1,9 @@
+.user-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.user-form label {
+    font-weight: bold;
+}
